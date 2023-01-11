@@ -24,7 +24,7 @@ This project contains a framework, known as WATER, that measures the threat land
 
 ## Research Results
 An unpublished paper, title `Applying Accessibility Metrics to Measure the
-Threat Landscape for Users with Disabilities` is included with this repository. In an effort to promote replication and reproducibility, the code used to gather the data mentioned in the paper, alongside the data itself is included within this repository. 
+Threat Landscape for Users with Disabilities` was written to go over the WATER framework. In an effort to promote replication and reproducibility, the code used to gather the data mentioned in the paper, alongside the data itself is included within this repository. 
 
 A high-level overview of the paper is provided below:
 
