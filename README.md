@@ -23,7 +23,7 @@ This project contains a framework, known as WATER, that measures the threat land
 3. To make changes to the code, open the project's root directory in PyCharm.
 
 ## Research Results
-An upcoming published paper, title `Applying Accessibility Metrics to Measure the
+A paper that was presented at MADWeb 2023 (co-located with NDSS) titled `Applying Accessibility Metrics to Measure the
 Threat Landscape for Users with Disabilities` was written to go over the WATER framework and is included as part of this repository. In an effort to promote replication and reproducibility, the code used to gather the data mentioned in the paper, alongside the data itself is included within this repository. 
 
 A high-level overview of the paper is provided below:
